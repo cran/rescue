@@ -1,0 +1,12 @@
+c436fa84525b8896cb03ef3f0d012dbb *DESCRIPTION
+cefce8f9b1d8c0f2ca423f9d4d86e0ce *NAMESPACE
+396c845c04a5eb5592258bedfd5a5fee *R/clustering.R
+b1565b680443ece4902255546f617557 *R/globals.R
+d707329ca59fbc33a2cf34c9b7960c32 *R/imputation.R
+b9c3a38b582f3934f03d853ed83862cd *R/variable_genes.R
+fdbd09dd629e3d0dcd11ef7c4b5a763d *inst/python/python_louvain.py
+1050bc2623f23e11021b7851eeb1ebe7 *man/bootstrapImputation.Rd
+f88620753805b59a3d5ac3ac7842c016 *man/clusterLouvain.Rd
+a6f0fc46ba47f56d0bd0e8e30b22032f *man/computeHVG.Rd
+ad74b537e600faf871bab745ba1e9870 *man/constructNN.Rd
+c6932f27872541a0bfd8e6a219c03ae0 *man/sampleImputation.Rd
